@@ -1,0 +1,103 @@
+NA VEEN JOY
++91 9483985321 ⋄ Mangalore, India
+naveenjvl18@gmail.com ⋄ linkedin.com/in/naveen-joy- ⋄ github.com/naveen-joy-18
+PROFESSIONAL SUMMARY
+Technically-equipped Applied AI Engineer and Quantum Developer with a professionally equipped foundation in
+Generative AI, Quantum Computing, Quantum Machine Learning (QML), Quantum Artificial Intelligence (QAI),
+Networking, and System Administration. Eager to contribute to cutting-edge, scalable, and quantum-enhanced AI
+solutions in a fast-paced tech environment that values innovation. Driven to apply advanced quantum-classical hybrid
+techniques and modern AI frameworks to streamline development, enhance computational performance, and build
+intelligent, high-impact applications. Seeking continuous growth by solving complex, multidisciplinary problems and
+delivering transformative results at the intersection of AI and Quantum Computing.
+EDUCATION
+B.E in Information Science , Visvesaraya Technological University 2021-2025
+CGPA: 9.24
+Pre-University Education, Jnanodaya Bethany PUC 2019 - 2021
+Percentile : 96
+SKILLS
+Technical Skills Python, Applied AI, ML, Generative AI, Quantum ML , Quantum AI
+Soft Skills Leadership, Confidence, Communication, Time Management
+WORK EXPERIENCE
+CEO & Co-Founder Feb 2026 – Present
+PHIMIND Private Limited India
+• Founded and leading PHIMIND Private Limited, building next-generation Quantum AI systems that address
+computational challenges beyond classical limits.
+• Defining the company’s strategic vision, research roadmap, and technology direction while driving product
+development, partnerships, and cross-disciplinary innovation.
+Data Scientist June 2025 – Present
+CIODS (Centre for Integrative Omics Data Science) Mangaluru, India
+• Leading the development and deployment of advanced Quantum AI and ML models for biomedical and clinical
+omics data analysis, improving predictive performance.
+• Collaborating with cross-functional teams on interdisciplinary research projects, combining omics, clinical data,
+and statistical models to drive translational insights and authoring technical reports
+PROJECTS
+Quantum Enabled Peptide Folding Framework Sep 2025
+• Designed and implemented a Quantum framework for simulating peptide folding, leveraging Quantum Comput-
+ing principles to predict protein conformations, optimize molecular energy landscapes,predict the conformation
+angles and generate the quantum circuits and enhance structural accuracy through a highly accurate Variational
+Quantum Eigensolver.
+Small Molecule discovery for Zika Virus using Quantum AI Aug 2025 – Present
+• Currently developing a hybrid quantum-classical AI framework for accelerating the discovery of small peptides.
+The project focuses on leveraging quantum machine learning algorithms to analyze peptide structures and predict
+biological activity with higher efficiency than classical methods.
+Animal and Bird Intrusion Detection System Jan 2025
+• Developed a Animal and Bird Intrusion Detection System, using sound and vision to automatically identify and
+deter farm intrusions while supporting adaptive dataset expansion using machine learning techniques.
+Memory-Augmented Meta-Learning Networks for Continual Neural Systems Jan 2026
+• Designed and implemented a memory-augmented meta-learning framework to enable continual learning in neural
+networks, reducing catastrophic forgetting through dynamic memory modules and task-adaptive parameter
+updates.
+Minimum Energy Dissipation Theorem Framework Feb 2026
+• Developed a computational framework based on the Minimum Energy Dissipation Theorem to model and opti-
+mize quantum system dynamics, focusing on achieving energetically efficient state transitions and stable equi-
+librium configurations.
+PUBLICATIONS
+• Thomas, S.D., Rajan, A., Mahin, A., Ahmed, M., Pavithra, S., Vignesh U., Joy, Naveen, John, L., Varghese,
+L., Sambreena, A., Codi, J.A.K., Prasad, T.S.K., Vijayakumar, M., Geetha, S., Parvathi, R., Ganesan, R., &
+Raju, R. Impact of Intrinsically Disordered Regions and Functional Disorder Hotspots in the Human Kinome .
+Briefings in Bioinformatics (Q1) , Impact Factor: 7.7, 2025. D.O.I: https://doi.org/10.1093/bib/bbaf662
+• Joy, Naveen, Thomas, S.D., Rajan, A., Varghese, L., Balakrishnan, A., Niranjan, V., Abhithaj, J., & Raju,
+R. Quantum-Enhanced Convolutional Neural Networks for Automated Bone Cancer Screening on Radiographs .
+Quantum Reports (Q3), Impact Factor: 1.8, 2026. D.O.I: https://doi.org/10.3390/quantum8010019
+• Thaikkad, A., Thomas, S.D., Dcunha, L., John, L., Vijayan, J., Joy, N., Dev, R., Raju, R., & Jayanan-
+dan, A. Structural-Based and AI-Assisted Identification of AGPS Inhibitors for Glioma via Integrated Docking,
+Molecular Dynamics, and Binding Affinity Screening . ACS Omega (Q1) , Impact Factor: 4.3, 2026 D.O.I:
+https://doi.org/10.1021/acsomega.5c09368
+EXTRA-CURRICULAR ACTIVITIES
+• Recipient of IonQ Quantum Research Grant: Awarded the IonQ Quantum Research Grant for Quantum
+Conformational Workflow of Dark Peptide Regions, with hands-on experience in developing and executing real-
+time quantum workflows on IonQ quantum hardware.
+• Winner of IISc Qiskit Fall Fest 2025 Hackathon: Secured the First Place in the IISc x Qiskit Fall Fest
+2025 organized by the Indian Institute of Science (IISc), Bangalore, by completing the IBM QRADAR Challenge
+and competing with 300+ projects nationwide.
+• Lead Speaker : IQ-BIO National Level Workshop: Served as the Lead Speaker at the IQ-BIO National
+Level AI and Quantum Computing Workshop held at Kannur University, delivering sessions on advanced AI
+frameworks and quantum algorithmic concepts.
+• Lead Speaker - AI Innovation Bootcamp: Delivered a one-day expert session titled “AI Innovation Boot-
+camp : Demystifying the AI Pipeline”, guiding participants through end-to-end AI development workflows,
+practical implementation strategies, and real-world innovation practices in Artificial Intelligence which was held
+at Yenepoya Institute of Technology.
+• Speaker (Yenepoya School of Engineering and Technology): Delivered a session on Artificial Intelli-
+gence and Machine Learning, covering core concepts, real-world applications, and emerging trends in AI/ML to
+students and faculty.
+• Winner of HOPE AI National-Level Hackathon: Secured 1st Place in the prestigious HOPE AI
+Hackathon powered by Hope A.I in July 2025, as part of the CIODS AI team. The event focused on AI-driven
+innovation, and our solution received the highest public and jury recognition among 130+ projects nationwide
+in different domains.
+• Executive Member – Singularity University India Summit 2025: Attended the prestigious SU India
+Summit held in Bangalore (Aug 2025), engaging with global leaders in AI, space innovation, metaverse, and
+exponential technologies, representing future-focused executive leadership.
+INDUSTRIAL AND RESEARCH COLLABORATIONS
+• University of Edinburgh: Engaged in multiple collaborative projects with the University of Edinburgh,
+including a survival analysis project, along with broader academic and research collaborations spanning inter-
+disciplinary domains and applied problem-solving initiatives.
+• Indian Institute of Science, Bangalore: Collaborated on quantum computing research initiatives with IISc
+Bangalore, contributing to joint research efforts and innovation-driven projects, along with active participation
+and achievements in hackathons, fostering strong academic and technical collaboration.
+• Kannur University: Collaborated on quantum computing research initiatives, Invited Tech-talks and con-
+tributing to joint research efforts and innovation-driven projects.
+• MIT Visvaprayag, University: Engaged in collaborative quantum computing research and broader academic
+partnerships, including joint research initiatives and innovation-driven projects.
+LANGUAGES KNOWN
+English: Full Proficiency (R/W/S) Kannada: Full Proficiency (R/W/S)
+Malayalam: Native (R/W/S) Hindi: Intermediate (R/W)

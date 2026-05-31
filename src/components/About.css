@@ -1,0 +1,113 @@
+/* ─── About Body ─── */
+.about-body {
+  margin-bottom: 4rem;
+}
+
+.about-lead {
+  margin-bottom: 2.5rem;
+  padding-bottom: 2.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.about-lead-text {
+  font-size: 1.35rem;
+  line-height: 1.7;
+  color: var(--text-primary);
+  font-weight: 300;
+  max-width: 900px;
+}
+
+.about-two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+}
+
+.about-text {
+  font-size: 0.95rem;
+  line-height: 1.8;
+  color: var(--text-secondary);
+  font-weight: 300;
+}
+
+/* ─── Cards Row ─── */
+.about-cards-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+.about-card {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.about-card-icon {
+  width: 40px;
+  height: 40px;
+  border: 1px solid var(--border);
+  border-radius: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-secondary);
+  margin-bottom: 1.5rem;
+  transition: all var(--transition-normal);
+}
+
+.about-card:hover .about-card-icon {
+  border-color: var(--text-primary);
+  color: var(--text-primary);
+}
+
+.about-card-title {
+  font-family: var(--font-body);
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 0.4rem;
+  text-transform: none;
+}
+
+.about-card-sub {
+  font-size: 0.88rem;
+  color: var(--text-secondary);
+  font-weight: 300;
+  margin-bottom: 0.3rem;
+}
+
+.about-card-meta {
+  font-size: 0.8rem;
+  color: var(--text-tertiary);
+  font-weight: 400;
+  margin-bottom: 1.2rem;
+}
+
+.about-card-badge {
+  margin-top: auto;
+  font-size: 0.72rem;
+  color: var(--text-primary);
+  font-weight: 600;
+  padding: 0.35rem 0.8rem;
+  border: 1px solid var(--border-strong);
+  border-radius: 0;
+  align-self: flex-start;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  transition: all var(--transition-fast);
+}
+
+.about-card:hover .about-card-badge {
+  border-color: var(--text-primary);
+}
+
+@media (max-width: 900px) {
+  .about-two-col {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  .about-cards-row {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,125 @@
+.achievements-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0;
+  border: 1px solid var(--border);
+}
+
+.achievement-card {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  padding: 2rem;
+  background: transparent;
+  border: none;
+  border-right: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  border-radius: 0;
+  transition: background var(--transition-normal);
+}
+
+.achievement-card:hover {
+  background: rgba(255, 255, 255, 0.02);
+  transform: none;
+  box-shadow: none;
+}
+
+.achievement-card:hover::after {
+  transform: scaleX(0);
+}
+
+.achievement-card:nth-child(4n) {
+  border-right: none;
+}
+
+.achievement-card:nth-child(n+5) {
+  border-bottom: none;
+}
+
+.achievement-icon {
+  width: 38px;
+  height: 38px;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-tertiary);
+  margin-bottom: 1.2rem;
+  transition: all var(--transition-normal);
+}
+
+.achievement-card:hover .achievement-icon {
+  border-color: var(--text-primary);
+  color: var(--text-primary);
+}
+
+.achievement-title {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 0.8rem;
+  line-height: 1.4;
+  text-transform: none;
+}
+
+.achievement-desc {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  line-height: 1.7;
+  margin-bottom: 1.2rem;
+  flex-grow: 1;
+  font-weight: 300;
+}
+
+.achievement-date {
+  font-size: 0.68rem;
+  color: var(--text-tertiary);
+  font-weight: 600;
+  padding: 0;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  align-self: flex-start;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+}
+
+@media (max-width: 1024px) {
+  .achievements-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .achievement-card:nth-child(4n) {
+    border-right: 1px solid var(--border);
+  }
+  .achievement-card:nth-child(2n) {
+    border-right: none;
+  }
+  .achievement-card:nth-child(n+5) {
+    border-bottom: 1px solid var(--border);
+  }
+  .achievement-card:nth-child(n+7) {
+    border-bottom: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .achievements-grid {
+    grid-template-columns: 1fr;
+  }
+  .achievement-card {
+    border-right: none;
+  }
+  .achievement-card:nth-child(4n),
+  .achievement-card:nth-child(2n) {
+    border-right: none;
+  }
+  .achievement-card {
+    border-bottom: 1px solid var(--border);
+  }
+  .achievement-card:last-child {
+    border-bottom: none;
+  }
+}
